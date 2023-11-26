@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "605006436283",
+    "project_id": "project-89f7a",
+    "storage_bucket": "project-89f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605006436283:android:2cb047f39dc043500d569e",
+        "android_client_info": {
+          "package_name": "com.super"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605006436283-ai6amegc1ddp0hphq8dbjrmevuk12mf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0iaAA4-XMRwxQ5TOOIVuNgeEI8070yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605006436283-ai6amegc1ddp0hphq8dbjrmevuk12mf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605006436283-j9iamcpc2990o92mbignbfoupf13rh27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.supervisor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605006436283:android:5cc3925d816c917a0d569e",
+        "android_client_info": {
+          "package_name": "com.superv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605006436283-ai6amegc1ddp0hphq8dbjrmevuk12mf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy0iaAA4-XMRwxQ5TOOIVuNgeEI8070yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605006436283-ai6amegc1ddp0hphq8dbjrmevuk12mf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605006436283-j9iamcpc2990o92mbignbfoupf13rh27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.supervisor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
